@@ -205,7 +205,7 @@ header nav .form i {
   position: relative;
   background-color: rgb(25 200 250 / 70%);
   min-height: 100vh;
-  background-image: url(/Image/landing.jpg);
+  background-image: url(Image/landing.jpg);
   background-size: cover;
 }
 .landing .overlay {
@@ -354,7 +354,7 @@ header nav .form i {
   height: 600px;
   background-size: cover;
   position: relative;
-  background-image: url(/Image/design-features.jpg);
+  background-image: url(Image/design-features.jpg);
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -555,7 +555,7 @@ header nav .form i {
 
 /* Start Stats */
 .stats {
-  background-image: url(/Image/stats.png);
+  background-image: url(Image/stats.png);
   background-size: cover;
   position: relative;
   padding-top: var(--section-padding);
@@ -729,7 +729,7 @@ header nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   position: relative;
-  background-image: url(/Image/quote.jpg);
+  background-image: url(Image/quote.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -849,7 +849,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/Image/subscribe.jpg);
+  background-image: url(Image/subscribe.jpg);
   position: relative;
   background-size: cover;
   color: white;
@@ -986,7 +986,7 @@ header nav .form i {
 /* End Contact */
 /* Start Footer */
 footer {
-  background-image: url(/Image/subscribe.jpg);
+  background-image: url(Image/subscribe.jpg);
   background-size: cover;
   position: relative;
   padding-top: var(--section-padding);
